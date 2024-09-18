@@ -19,19 +19,19 @@ Following these guidelines, I was able to design and develop a Linear Voltage Fu
 -->
 
 ## The Theoretical circuit design with expected waveforms.
-<img src="https://github.com/user-attachments/assets/51b997f4-8c57-42fc-bdbe-be575b2d8972" alt="Theoretical" style="width:30%; height:auto;">
+<img src="https://github.com/user-attachments/assets/51b997f4-8c57-42fc-bdbe-be575b2d8972" alt="Theoretical" style="width:60%; height:auto;">
 
 ## The Theoretical circuit design completed on NI Multisim.
-<img src="https://github.com/user-attachments/assets/f880b5e6-2788-4496-b092-7125fbbaed09" alt="Multisim" style="width:30%; height:auto;">
+<img src="https://github.com/user-attachments/assets/f880b5e6-2788-4496-b092-7125fbbaed09" alt="Multisim" style="width:60%; height:auto;">
 
 ## The Theoretical waveform using the NI Multisim software.
-<img src="https://github.com/user-attachments/assets/8422ddc5-5532-44f9-9815-91e6bd85c082" alt="Multisim" style="width:30%; height:auto;">
+<img src="https://github.com/user-attachments/assets/8422ddc5-5532-44f9-9815-91e6bd85c082" alt="Multisim" style="width:60%; height:auto;">
 
 ## The Actual Build of the designed circuit on a breadboard.
-<img src="https://github.com/user-attachments/assets/6273ce74-02b9-4fa0-beaa-7033ea060721" alt="Multisim" style="width:30%; height:auto;">
+<img src="https://github.com/user-attachments/assets/6273ce74-02b9-4fa0-beaa-7033ea060721" alt="Multisim" style="width:60%; height:auto;">
 
 ## The expected Triangualr waveform read through an oscilloscope.
-<img src="https://github.com/user-attachments/assets/314c030d-0c0a-4a4a-beb4-09ce89c00d66" alt="Multisim" style="width:30%; height:auto;">
+<img src="https://github.com/user-attachments/assets/314c030d-0c0a-4a4a-beb4-09ce89c00d66" alt="Multisim" style="width:60%; height:auto;">
 
 ## The expected Square waveform read through an oscilloscope.
-<img src="https://github.com/user-attachments/assets/be20855d-7166-431e-89bf-32c3756bcbcc" alt="Multisim" style="width:30%; height:auto;">
+<img src="https://github.com/user-attachments/assets/be20855d-7166-431e-89bf-32c3756bcbcc" alt="Multisim" style="width:60%; height:auto;">
